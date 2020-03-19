@@ -14,5 +14,5 @@ npm run emu:start:firestore
 ```
 ### テストの実施
 ```bash
-npm test-watch
+npm run test-watch
 ```
